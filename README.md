@@ -108,7 +108,7 @@ Com domínio em tecnologias como Python, n8n, SQL e Power BI, desenvolvo soluç�
 
 ## 📫 Portfólio 
 - 💼 LinkedIn: 
-- 📧 Github: <a href="[(https://github.com/diegocirillo96/diegocirillo96.git)]"><img src="https://img.shields.io/badge/GitHub-PERFIL-181717?style=for-the-badge&logo=github" /></a>
+- 📧 Github: <a href="[https://github.com/diegocirillo96/diegocirillo96.git]"><img src="https://img.shields.io/badge/GitHub-PERFIL-181717?style=for-the-badge&logo=github" /></a>
 
 
 
