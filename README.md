@@ -110,11 +110,11 @@ Com domínio em tecnologias como Python, n8n, SQL e Power BI, desenvolvo soluç�
 - 💼 LinkedIn: 
 - 📧 Github: <a href="[https://github.com/diegocirillo96/diegocirillo96.git]"><img src="https://img.shields.io/badge/GitHub-PERFIL-181717?style=for-the-badge&logo=github" /></a>
 
-
+treinamento.diegoescola@gmail.com
 
 ## 📫 Contato
 
 Tem um projeto em mente ou quer bater um papo? Clique no botão abaixo
 
 - 💼 Wpp [link]
-- 📧 Email: diegocirillo11@gmail.com
+- 📧 Email: <a href="treinamento.diegoescola@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail"></a>
