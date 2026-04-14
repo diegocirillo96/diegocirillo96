@@ -116,7 +116,7 @@ Com domínio em tecnologias como Python, n8n, SQL e Power BI, desenvolvo soluç�
 
 Tem um projeto em mente ou quer bater um papo? Clique no botão abaixo
 
-- 💼Whatsapp:<a href="https://wa.me/5561982333250" target="_blank">
+- 💼Whatsapp: <a href="https://wa.me/5561982333250" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 - 📧 Email: <a href="treinamento.diegoescola@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail"></a>
