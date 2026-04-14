@@ -110,7 +110,7 @@ Com domínio em tecnologias como Python, n8n, SQL e Power BI, desenvolvo soluç�
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/diego-cirillo-813956229?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - 📧 Github: <a href="[https://github.com/diegocirillo96/diegocirillo96.git]"><img src="https://img.shields.io/badge/GitHub-PERFIL-181717?style=for-the-badge&logo=github" /></a>
 
-treinamento.diegoescola@gmail.com
+
 
 ## 📫 Contato
 
